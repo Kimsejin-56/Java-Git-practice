@@ -5,5 +5,7 @@ public class ExampleClass {
 
         Car sonata = Car.createCar("소나타", 10000, 29014);
         System.out.println("hi");
+
+        System.out.println("example");
     }
 }
