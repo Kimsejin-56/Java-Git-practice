@@ -1,2 +1,9 @@
-package javabasic.oop1;public class ValueData {
+package javabasic.oop1;
+
+public class ValueData {
+    int value;
+
+    void add(){
+        value++;
+    }
 }
