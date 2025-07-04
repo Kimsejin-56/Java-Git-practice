@@ -1,2 +1,2 @@
-package javabasic.pack;public class Dta {
+package javabasic.pack;public class Data {
 }
